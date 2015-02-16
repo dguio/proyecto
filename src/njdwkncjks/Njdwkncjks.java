@@ -16,6 +16,8 @@ public class Njdwkncjks {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("no se un jpito de java");
+        
         System.out.println("Probando edicion de colaboaracion"
                 + "Esicion simultanea, ¿Si se podrá?");
     }
